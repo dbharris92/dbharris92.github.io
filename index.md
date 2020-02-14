@@ -8,7 +8,7 @@
 <img src="images/gisThumb.PNG?raw=true"/>
 
 ---
-[New Zoning District Memo](/images/C-T_memo.pdf)
+[New Zoning District Board Report](/images/C-T_memo.pdf)
 <img src="images/c-t.PNG?raw=true"/>
 
 ---
@@ -20,7 +20,7 @@
 ### Additional Work
 
 - [Extraterritorial Jurisdiction Memo](/images/etj-copy-min.pdf)
-- [Project 2 Title](http://example.com/)
+- [Simple Utility Viewer](https://forestcitync.github.io/utils/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)

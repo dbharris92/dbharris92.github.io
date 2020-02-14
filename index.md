@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forest City Parcel Viewer](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)
+<img src="images/gisThumb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

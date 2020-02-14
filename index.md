@@ -4,12 +4,12 @@
 
 ### Sample Work
 
-[Forest City Parcel Viewer](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)
-<img src="images/gisThumb.PNG?raw=true"/>
-
----
 [New Zoning District Board Report](/images/C-T_memo.pdf)
 <img src="images/c-t.PNG?raw=true"/>
+
+---
+[Forest City Parcel Viewer](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)
+<img src="images/gisThumb.PNG?raw=true"/>
 
 ---
 [Public Hearing Presentaion](http://example.com/)

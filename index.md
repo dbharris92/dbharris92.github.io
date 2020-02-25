@@ -4,7 +4,7 @@
 
 ### Sample Work
 
-[New Zoning District Town Board Memo](/images/C-T_memo.pdf)
+[Historic Preservation Guidelines Memo](/images/TB 9-16-19.pdf.pdf)
 <img src="images/c-t.PNG?raw=true"/>
 
 ---
@@ -22,9 +22,9 @@
 
 - [ETJ Town Board Memo](/images/etj-copy-min.pdf)
 - [Simple Utility Webmap](https://forestcitync.github.io/utils/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [New Zoning District Memo](/images/C-T-memo.pdf)
+- [Cemetery Viewer](http://example.com/)
+- [Fire Map](http://example.com/)
 
 ---
 

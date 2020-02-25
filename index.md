@@ -4,7 +4,7 @@
 
 ### Sample Work
 
-[Historic Preservation Guidelines Memo](/images/TB9-16-19.pdf.pdf)
+[Historic Preservation Guidelines Memo](/images/TB9-16-19.pdf)
 <img src="images/hpmemo.png?raw=true"/>
 
 ---

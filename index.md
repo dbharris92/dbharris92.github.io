@@ -4,8 +4,8 @@
 
 ### Sample Work
 
-[Historic Preservation Guidelines Memo](/images/TB 9-16-19.pdf.pdf)
-<img src="images/c-t.PNG?raw=true"/>
+[Historic Preservation Guidelines Memo](/images/TB9-16-19.pdf.pdf)
+<img src="images/hpmemo.png?raw=true"/>
 
 ---
 [Forest City Parcel Webmap](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)

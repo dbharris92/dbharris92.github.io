@@ -2,13 +2,13 @@
 
 ---
 
-### Sample Work
+#### Sample Work
 
-[Historic Preservation Guidelines Memo](/images/TB9-16-19.pdf)
+[Historic Preservation Design Guidelines Memo](/images/TB9-16-19.pdf)
 <img src="images/hpmemo.PNG?raw=true"/>
 
 ---
-[Forest City Parcel Webmap](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)
+[Forest City Parcel Viewer Webmap](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)
 <img src="images/gisThumb.PNG?raw=true"/>
 
 ---
@@ -23,8 +23,8 @@
 - [ETJ Town Board Memo](/images/etj-copy-min.pdf)
 - [Simple Utility Webmap](https://forestcitync.github.io/utils/)
 - [New Zoning District Memo](/images/C-T-memo.pdf)
-- [Cemetery Viewer](http://example.com/)
-- [Fire Map](http://example.com/)
+- [Cemetery Viewer](https://forestcitync.github.io/Cemetery-Viewer/)
+- [Community Assessment of Black Mountain](https://docs.google.com/presentation/d/1QHfRr39O7Gsf4bG7IBCrcNnqxuaTraBON9QotxBdzl0/edit?usp=sharing)
 
 ---
 

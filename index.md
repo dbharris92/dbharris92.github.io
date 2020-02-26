@@ -12,7 +12,7 @@
 <img src="images/gisThumb.PNG?raw=true"/>
 
 ---
-[ETJ Public Hearing Presentation](https://drive.google.com/file/d/1iQhkyNPClNgAGszmQ38DpEcKl08WcaFE/view?usp=sharing)
+[Public Hearing Presentation on Forest City ETJ](https://drive.google.com/file/d/1iQhkyNPClNgAGszmQ38DpEcKl08WcaFE/view?usp=sharing)
 <sup><sub>[And related slides](https://docs.google.com/presentation/d/1AR3xSYBoNkvYjKohkeQ83DVlDU32rFNnSFR06SSiQig/edit?usp=sharing)</sub></sup>
 <img src="images/presentation.PNG?raw=true"/>
 

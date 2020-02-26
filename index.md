@@ -2,7 +2,7 @@
 
 ---
 
-#### Sample Work
+#### Links to Relevant Work
 
 [Historic Preservation Design Guidelines Memo](/images/TB9-16-19.pdf)
 <img src="images/hpmemo.PNG?raw=true"/>
@@ -20,11 +20,11 @@
 
 ### Additional Work
 
-- [ETJ Town Board Memo](/images/etj-copy-min.pdf)
-- [Simple Utility Webmap](https://forestcitync.github.io/utils/)
 - [New Zoning District Memo](/images/C-T-memo.pdf)
+- [Utility Location Webmap](https://forestcitync.github.io/utils/)
+- [ETJ Town Board Memo](/images/etj-copy-min.pdf)
 - [Cemetery Viewer](https://forestcitync.github.io/Cemetery-Viewer/)
-- [Community Assessment of Black Mountain](https://docs.google.com/presentation/d/1QHfRr39O7Gsf4bG7IBCrcNnqxuaTraBON9QotxBdzl0/edit?usp=sharing)
+- [Community Assessment of Black Mountain (Group Project)](https://docs.google.com/presentation/d/1QHfRr39O7Gsf4bG7IBCrcNnqxuaTraBON9QotxBdzl0/edit?usp=sharing)
 
 ---
 

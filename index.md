@@ -5,7 +5,7 @@
 ### Sample Work
 
 [Historic Preservation Guidelines Memo](/images/TB9-16-19.pdf)
-<img src="images/hpmemo.png?raw=true"/>
+<img src="images/hpmemo.PNG?raw=true"/>
 
 ---
 [Forest City Parcel Webmap](https://www.townofforestcity.com/zoning-parcel-map/#13/35.3258/-81.8742)

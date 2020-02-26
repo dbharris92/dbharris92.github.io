@@ -2,7 +2,7 @@
 
 ---
 
-#### Links to Relevant Work
+#### Relevant Work
 
 [Historic Preservation Design Guidelines Memo](/images/TB9-16-19.pdf)
 <img src="images/hpmemo.PNG?raw=true"/>

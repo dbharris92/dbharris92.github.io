@@ -20,7 +20,7 @@
 
 ### Additional Work
 
-- [New Zoning District Memo](/images/C-T-memo.pdf)
+- [New Zoning District Memo](/images/C-T_memo.pdf)
 - [Utility Location Webmap](https://forestcitync.github.io/utils/)
 - [ETJ Town Board Memo](/images/etj-copy-min.pdf)
 - [Cemetery Viewer](https://forestcitync.github.io/Cemetery-Viewer/)

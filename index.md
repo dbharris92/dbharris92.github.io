@@ -19,7 +19,7 @@
 
 ### Additional Work
 
-- [Historic Preservation Guidelines Memo](/images/C-T_memo.pdf)
+- [Historic Preservation Guidelines Memo](/images/TB9-16-19.pdf)
 - [Response Distance Map](https://drive.google.com/file/d/1yl3-HvkTZRFHJ6YK0d98glAg2HhvhqxD/view?usp=sharing)
 - [ETJ Town Board Memo](/images/etj-copy-min.pdf)
 - [Cemetery Webmap](https://forestcitync.github.io/Cemetery-Viewer/)
